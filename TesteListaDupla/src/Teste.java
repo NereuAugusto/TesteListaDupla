@@ -7,6 +7,7 @@ public class Teste {
 		lista.inserir("Sandra", 456); //Ctrl + alt + seta pra baixo, duplica a linha
 		
 		lista.imprimir();
+		//mensagem colocada no github
 	}
 
 }
